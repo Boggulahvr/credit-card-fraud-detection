@@ -72,3 +72,17 @@ The Jupyter Notebook contains the implementation, analysis, visualizations, and 
 **Institution:** Wright State University  
 **Duration:** Aug 2025 – Dec 2025  
 **Type:** Academic Team Project
+
+## Results and Visualizations
+
+### SHAP Feature Importance
+
+![SHAP Feature Importance](images/SHAP_20.png)
+
+### XGBoost Confusion Matrix
+
+![XGBoost Confusion Matrix](images/XGBOOST.png)
+
+### XGBoost ROC Curve
+
+![XGBoost ROC Curve](images/XGboost_ROC.png)
