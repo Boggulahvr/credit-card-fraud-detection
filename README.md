@@ -53,9 +53,11 @@ Some of the work included:
 - Creating feature-importance and summary visualizations
 - Comparing and interpreting model results
 
+
 ## Repository Contents
 
-credit-card-fraud-detection/credit_card_fraud-detect.ipynb
+- credit_card_fraud-detect.ipynb — Jupyter Notebook containing the implementation, analysis, visualizations, and results.
+- images/ — Selected project visualizations and model results
 
 The Jupyter Notebook contains the implementation, analysis, visualizations, and results of the project.
 
